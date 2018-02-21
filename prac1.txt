@@ -1,3 +1,4 @@
 I am trying to commit a file here
 this is the difference
 this is the new thing
+this is another thing
